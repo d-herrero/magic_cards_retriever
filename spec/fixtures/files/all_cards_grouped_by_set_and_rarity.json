@@ -1,0 +1,196 @@
+{
+   "cards":{
+      "setName->Khans of Tharkir":{
+         "rarity->aaaaa":[
+            {
+               "id":"1",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"3",
+               "setName":"Khans of Tharkir",
+               "color":"blue",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"5",
+               "setName":"Khans of Tharkir",
+               "color":"yellow",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"7",
+               "setName":"Khans of Tharkir",
+               "color":"blue",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"9",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"11",
+               "setName":"Khans of Tharkir",
+               "color":"yellow",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"15",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"19",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"21",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"23",
+               "setName":"Khans of Tharkir",
+               "color":"blue",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"29",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"aaaaa"
+            }
+         ],
+         "rarity->bbbbbb":[
+            {
+               "id":"12",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"16",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"20",
+               "setName":"Khans of Tharkir",
+               "color":"yellow",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"22",
+               "setName":"Khans of Tharkir",
+               "color":"red",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"24",
+               "setName":"Khans of Tharkir",
+               "color":"blue",
+               "rarity":"bbbbbb"
+            }
+         ]
+      },
+      "setName->Lorem Ipsum":{
+         "rarity->aaaaa":[
+            {
+               "id":"25",
+               "setName":"Lorem Ipsum",
+               "color":"yellow",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"27",
+               "setName":"Lorem Ipsum",
+               "color":"yellow",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"17",
+               "setName":"Lorem Ipsum",
+               "color":"blue",
+               "rarity":"aaaaa"
+            },
+            {
+               "id":"13",
+               "setName":"Lorem Ipsum",
+               "color":"yellow",
+               "rarity":"aaaaa"
+            }
+         ],
+         "rarity->bbbbbb":[
+            {
+               "id":"26",
+               "setName":"Lorem Ipsum",
+               "color":"yellow",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"28",
+               "setName":"Lorem Ipsum",
+               "color":"blue",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"18",
+               "setName":"Lorem Ipsum",
+               "color":"yellow",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"14",
+               "setName":"Lorem Ipsum",
+               "color":"blue",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"10",
+               "setName":"Lorem Ipsum",
+               "color":"red",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"8",
+               "setName":"Lorem Ipsum",
+               "color":"yellow",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"6",
+               "setName":"Lorem Ipsum",
+               "color":"red",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"4",
+               "setName":"Lorem Ipsum",
+               "color":"blue",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"2",
+               "setName":"Lorem Ipsum",
+               "color":"red",
+               "rarity":"bbbbbb"
+            },
+            {
+               "id":"30",
+               "setName":"Lorem Ipsum",
+               "color":"red",
+               "rarity":"bbbbbb"
+            }
+         ]
+      }
+   }
+}

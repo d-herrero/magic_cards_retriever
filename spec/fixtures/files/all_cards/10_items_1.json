@@ -1,0 +1,64 @@
+{
+   "cards":[
+      {
+         "id":"1",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"2",
+         "setName":"Lorem Ipsum",
+         "color":"red",
+         "rarity":"bbbbbb"
+      },
+      {
+         "id":"3",
+         "setName":"Khans of Tharkir",
+         "color":"blue",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"4",
+         "setName":"Lorem Ipsum",
+         "color":"blue",
+         "rarity":"bbbbbb"
+      },
+      {
+         "id":"5",
+         "setName":"Khans of Tharkir",
+         "color":"yellow",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"6",
+         "setName":"Lorem Ipsum",
+         "color":"red",
+         "rarity":"bbbbbb"
+      },
+      {
+         "id":"7",
+         "setName":"Khans of Tharkir",
+         "color":"blue",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"8",
+         "setName":"Lorem Ipsum",
+         "color":"yellow",
+         "rarity":"bbbbbb"
+      },
+      {
+         "id":"9",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"10",
+         "setName":"Lorem Ipsum",
+         "color":"red",
+         "rarity":"bbbbbb"
+      }
+   ]
+}

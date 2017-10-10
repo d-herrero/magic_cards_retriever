@@ -1,0 +1,82 @@
+{
+   "cards":[
+      {
+         "id":"1",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"3",
+         "setName":"Khans of Tharkir",
+         "color":"blue",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"7",
+         "setName":"Khans of Tharkir",
+         "color":"blue",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"9",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"12",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"bbbbbb"
+      },
+      {
+         "id":"15",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"16",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"bbbbbb"
+      },
+      {
+         "id":"19",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"21",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"22",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"bbbbbb"
+      },
+      {
+         "id":"23",
+         "setName":"Khans of Tharkir",
+         "color":"blue",
+         "rarity":"aaaaa"
+      },
+      {
+         "id":"24",
+         "setName":"Khans of Tharkir",
+         "color":"blue",
+         "rarity":"bbbbbb"
+      },
+      {
+         "id":"29",
+         "setName":"Khans of Tharkir",
+         "color":"red",
+         "rarity":"aaaaa"
+      }
+   ]
+}
